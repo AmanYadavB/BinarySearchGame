@@ -1,0 +1,12 @@
+.flex-basis-10{
+    flex-basis: 10%;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.my-sticky{
+    position: -webkit-sticky;
+    position: fixed;
+    top: 0;
+}
